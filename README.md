@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python, Solidity**
 
-- 🤝 I’m looking for help with **projects of Python**
+- 🤝 I’m looking to collaborate on **projects of Python**
 
 - 💬 Ask me about **Python**
 
