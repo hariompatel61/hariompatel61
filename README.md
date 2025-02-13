@@ -1,6 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/15abb264a051b58e9e816b5cf447dd51d514962153de308a6a9785c16897f36f/68747470733a2f2f696e666f677261706869636e6f772e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30322f706978656c2d6172742d6769662d4361707469766174696e672d506978656c2d4172742d5363656e65732e676966)
 <h1 align="center">Hii 👋, I'm Hariom Patel</h1>
-<h3 align="center">An enthusiastic Student from India</h3>
+<h3 align="center">An enthusiastic Coder from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariompatel61&label=Profile%20views&color=0e75b6&style=flat" alt="hariompatel61" /> </p>
