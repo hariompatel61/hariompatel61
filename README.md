@@ -1,111 +1,249 @@
-![MasterHead](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+```markdown
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Hari Om Patel</h1>
-<h3 align="center">Quality Assurance Engineer | AI Automation Builder | API & Database Testing Specialist</h3>
+# 👋 Hi, I'm Hari Om Patel
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=QA+Engineer;Healthcare+Software+Tester;API+%26+Database+Testing;AI+Automation+Developer;Python+Automation+Enthusiast" />
+
+<p>
+QA Engineer passionate about building reliable software and AI-powered automation systems.
+</p>
+
+<p>
+<a href="https://github.com/hariompatel61">
+<img src="https://img.shields.io/github/followers/hariompatel61?label=Followers&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/hariompatel61">
+<img src="https://img.shields.io/github/stars/hariompatel61?style=for-the-badge"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=hariompatel61&style=for-the-badge"/>
+
+</p>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🔍 QA Engineer working in Healthcare domain  
-🧪 Specialized in API & Database Testing  
-🤖 Passionate about AI Automation Systems  
-🚀 Building intelligent workflow & content automation tools  
+- 🏥 QA Engineer in Healthcare Domain
+- 🧪 Specialized in API Testing & Database Validation
+- 🤖 Building AI Automation Systems
+- 🐍 Python Automation Enthusiast
+- ⚡ Passionate about LLMs & AI Agents
+- 🚀 Learning Automation Testing & Playwright
 
 ---
 
-## 💼 Professional Experience
+# 💼 Professional Experience
 
-### 🏥 RIMS – Hospital Management System
-- Functional, Integration & Regression Testing
+## 🏥 RIMS Hospital Management System
+
+Worked as QA Engineer on a large Healthcare ERP.
+
+### Responsibilities
+
+- Functional Testing
+- Integration Testing
+- Regression Testing
 - API Testing using Postman
 - Database Validation using SQL
-- Billing & Patient Workflow Verification
-- Agile Sprint Participation
-- Defect Lifecycle Management
+- Test Case Design
+- Defect Reporting
+- Sprint Planning
+- Requirement Analysis
+- Billing Workflow Testing
+- Patient Journey Validation
+- UAT Support
+
+### Modules Tested
+
+- Patient Registration
+- OPD
+- IPD
+- Appointment
+- Laboratory
+- Radiology
+- Pharmacy
+- Billing
+- Reports
+- Admission
+- User Management
 
 ---
 
-## 🤖 AI-Powered YouTube Automation System
+# 🚀 Featured Project
 
-Built an advanced automation system that:
+# 🤖 AI-Powered YouTube Automation Platform
 
-- 📈 Scrapes trending topics intelligently
-- 🧠 Uses LLM models for script generation
-- 🎭 Character-based AI content generation
-- 🤖 Multi-agent architecture for workflow execution
-- 🔄 MCP-based orchestration logic
-- 📝 Automated title, description & keyword generation
-- 📊 Metadata optimization using AI models
-- 🖼 AI-assisted thumbnail concept generation
-- ⏳ Automated scheduling & publishing workflow
-- 📂 Structured data pipeline & validation
+Designed an AI-first content automation workflow capable of generating and managing complete YouTube videos.
 
----
+## Features
 
-### ⚙️ Technologies Used
+- 📈 AI Trend Discovery
+- 🧠 LLM Script Generation
+- 🎭 Character-Based Story Generation
+- 🤖 Multi-Agent Architecture
+- 🔄 MCP Workflow Orchestration
+- 📝 AI Title Generation
+- 🏷 Keyword Optimization
+- 📊 SEO Metadata Generation
+- 🖼 Thumbnail Prompt Generation
+- 📂 Automated Data Pipeline
+- 📅 Video Scheduling
+- ⚙ End-to-End Workflow Automation
 
-- Python  
-- LLM Models  
-- AI Agents  
-- MCP Architecture  
-- Prompt Engineering  
-- REST APIs  
-- Automation Scripts  
-- Data Processing Pipelines  
-- SQL for validation  
-- JSON-based workflow systems  
+### Technologies
 
-> Sensitive credentials & API keys are excluded from the repository for security reasons.
+- Python
+- LLM APIs
+- Prompt Engineering
+- REST APIs
+- JSON Workflows
+- AI Agents
+- MCP Architecture
+- SQL
+- Automation Scripts
 
----
-
-## 🛠️ Technical Skills
-
-### Testing
-- Functional Testing  
-- Integration Testing  
-- Regression Testing  
-- UAT  
-- Exploratory Testing  
-- API Testing  
-- Database Testing  
-
-### AI & Automation
-- LLM Integration  
-- AI Agent Workflows  
-- Prompt Engineering  
-- Script Automation  
-- Workflow Orchestration  
-- Character-based AI Content Generation  
-
-### Tools
-- Postman  
-- JIRA  
-- Agile / Scrum  
-- SQL  
-- Python  
+> Security Note:
+> API Keys, Tokens and Credentials are intentionally excluded from public repositories.
 
 ---
 
-## 📊 GitHub Stats
+# 🛠 Tech Stack
+
+## Testing
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postman,python,mysql"/>
+
+</p>
+
+- Functional Testing
+- Regression Testing
+- Integration Testing
+- Database Testing
+- API Testing
+- UAT
+- Exploratory Testing
+
+---
+
+## AI & Automation
+
+- Python
+- LLM Integration
+- Prompt Engineering
+- AI Agents
+- Workflow Automation
+- MCP
+- REST APIs
+- JSON Pipelines
+- Automation Scripts
+
+---
+
+# ⚙ Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,mysql"/>
+
+</p>
+
+- Postman
+- JIRA
+- SQL
+- Agile
+- Scrum
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hariompatel61&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hariompatel61&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hariompatel61&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariompatel61&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 📫 Connect With Me
+# 🏆 GitHub Trophy
 
-📧 Email: hariompatel3369@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/hariompatel069  
-💻 GitHub: https://github.com/hariompatel61  
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hariompatel61&theme=onedark&row=1&column=6"/>
+
+</p>
 
 ---
 
-## 🎯 Current Focus
+# 📊 Contribution Graph
 
-- Advancing toward Automation Testing
-- Building AI-driven workflow systems
-- Developing scalable automation tools
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hariompatel61&theme=github-compact"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Playwright
+- Python Automation
+- AI Workflow Systems
+- LLM Integration
+- CI/CD Automation
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
+📧 Email:
+<a href="mailto:hariompatel3369@gmail.com">hariompatel3369@gmail.com</a>
+
+</p>
+
+<p>
+
+💼 LinkedIn:
+<a href="https://linkedin.com/in/hariompatel069">
+linkedin.com/in/hariompatel069
+</a>
+
+</p>
+
+<p>
+
+💻 GitHub:
+<a href="https://github.com/hariompatel61">
+github.com/hariompatel61
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+*"Quality isn't accidental. It is engineered."*
+
+</div>
+```
