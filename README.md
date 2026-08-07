@@ -1,249 +1,145 @@
-```markdown
 <div align="center">
 
 # 👋 Hi, I'm Hari Om Patel
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=QA+Engineer;Healthcare+Software+Tester;API+%26+Database+Testing;AI+Automation+Developer;Python+Automation+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=AI+Engineer;AI+Automation+Developer;LLM+%26+Multi-Agent+Architect;Python+%26+MCP+Specialist;QA+%26+System+Reliability+Engineer"/>
 
-<p>
-QA Engineer passionate about building reliable software and AI-powered automation systems.
-</p>
-
-<p>
-<a href="https://github.com/hariompatel61">
-<img src="https://img.shields.io/github/followers/hariompatel61?label=Followers&style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/hariompatel61">
-<img src="https://img.shields.io/github/stars/hariompatel61?style=for-the-badge"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=hariompatel61&style=for-the-badge"/>
-
+<p align="center">
+  <a href="https://hariompatel.onrender.com/"><img src="https://img.shields.io/badge/🌐_Portfolio-Live_Site-00C8FF?style=for-the-badge&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/AI-Engineer-purple?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-Automation-yellow?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs_%26_Agents-Blue?style=for-the-badge&logo=anthropic&logoColor=white"/>
 </p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+### 👨‍💻 Quick Summary & Core Focus
 
-- 🏥 QA Engineer in Healthcare Domain
-- 🧪 Specialized in API Testing & Database Validation
-- 🤖 Building AI Automation Systems
-- 🐍 Python Automation Enthusiast
-- ⚡ Passionate about LLMs & AI Agents
-- 🚀 Learning Automation Testing & Playwright
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+#### 🚀 What I Do
+- 🧠 **AI Systems:** Multi-Agent Workflows, LLM Integration, Prompt Engineering
+- 🔄 **Orchestration:** MCP Architecture, Custom Pipelines & Tooling
+- 🐍 **Backend & Automation:** Python Development, REST APIs, Automation
+- 🧪 **Quality Engineering:** System Validation, API & DB Testing, Reliability
 
-# 💼 Professional Experience
+</td>
+<td width="50%" valign="top">
 
-## 🏥 RIMS Hospital Management System
+#### 🎯 Career Focus & Learning
+- **Role:** AI Engineer / AI Automation Developer / SDET
+- **Currently Building:** Enterprise Multi-Agent Systems & AI Recruitment Platforms
+- **Learning:** Agentic Frameworks, Scalable Architecture, FastAPI, Docker, CI/CD
+- **Location:** Noida / Delhi, India
 
-Worked as QA Engineer on a large Healthcare ERP.
-
-### Responsibilities
-
-- Functional Testing
-- Integration Testing
-- Regression Testing
-- API Testing using Postman
-- Database Validation using SQL
-- Test Case Design
-- Defect Reporting
-- Sprint Planning
-- Requirement Analysis
-- Billing Workflow Testing
-- Patient Journey Validation
-- UAT Support
-
-### Modules Tested
-
-- Patient Registration
-- OPD
-- IPD
-- Appointment
-- Laboratory
-- Radiology
-- Pharmacy
-- Billing
-- Reports
-- Admission
-- User Management
+</td>
+</tr>
+</table>
 
 ---
 
-# 🚀 Featured Project
+### 🛠️ Tech Stack & Skills
 
-# 🤖 AI-Powered YouTube Automation Platform
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Designed an AI-first content automation workflow capable of generating and managing complete YouTube videos.
+#### 🤖 AI, Automation & Developer Tools
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,vscode,postman,mysql,git,github,docker" /><br><br>
+  <b>AI & Agents:</b> LLMs, Multi-Agent Frameworks, MCP Workflows, Prompt Engineering<br>
+  <b>Automation & APIs:</b> Python Scripts, FastAPI, REST APIs, JSON Processing
+</div>
 
-## Features
+</td>
+<td width="50%" valign="top">
 
-- 📈 AI Trend Discovery
-- 🧠 LLM Script Generation
-- 🎭 Character-Based Story Generation
-- 🤖 Multi-Agent Architecture
-- 🔄 MCP Workflow Orchestration
-- 📝 AI Title Generation
-- 🏷 Keyword Optimization
-- 📊 SEO Metadata Generation
-- 🖼 Thumbnail Prompt Generation
-- 📂 Automated Data Pipeline
-- 📅 Video Scheduling
-- ⚙ End-to-End Workflow Automation
+#### 🧪 Quality, Database & Architecture
+<div align="left">
+  <b>Testing & QA:</b> API Validation, DB Testing, Functional & Regression Testing, Playwright<br>
+  <b>Databases & Tools:</b> SQL, MySQL, JIRA, Agile/Scrum<br>
+  <b>Orchestration:</b> Workflow Pipelines, Data Validation, Cloud Deployment Basics
+</div>
 
-### Technologies
-
-- Python
-- LLM APIs
-- Prompt Engineering
-- REST APIs
-- JSON Workflows
-- AI Agents
-- MCP Architecture
-- SQL
-- Automation Scripts
-
-> Security Note:
-> API Keys, Tokens and Credentials are intentionally excluded from public repositories.
+</td>
+</tr>
+</table>
 
 ---
 
-# 🛠 Tech Stack
+### 💼 Key Highlights & Featured Projects
 
-## Testing
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p>
+#### 🤖 AI-Powered YouTube Automation Platform
+- **Overview:** Autonomous platform generating complete YouTube content end-to-end.
+- **Key Features:**
+  - Trend Discovery & AI Script Writing
+  - Character-Based Storytelling & Multi-Agent Orchestration
+  - SEO Metadata, Thumbnails, & Data Validation Pipelines
+  - Scheduled Auto-Publishing
 
-<img src="https://skillicons.dev/icons?i=postman,python,mysql"/>
+</td>
+<td width="50%" valign="top">
 
-</p>
+#### 🏥 RIMS Hospital Management System
+- **Domain:** Healthcare ERP System Validation
+- **Responsibilities:**
+  - Complex Functional, API, & Database (SQL) Verification
+  - Modules: Patient Reg, OPD/IPD, Billing, Lab, Pharmacy
+  - Regression Testing & Sprint QA Execution
 
-- Functional Testing
-- Regression Testing
-- Integration Testing
-- Database Testing
-- API Testing
-- UAT
-- Exploratory Testing
-
----
-
-## AI & Automation
-
-- Python
-- LLM Integration
-- Prompt Engineering
-- AI Agents
-- Workflow Automation
-- MCP
-- REST APIs
-- JSON Pipelines
-- Automation Scripts
+</td>
+</tr>
+</table>
 
 ---
 
-# ⚙ Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,mysql"/>
-
-</p>
-
-- Postman
-- JIRA
-- SQL
-- Agile
-- Scrum
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hariompatel61&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hariompatel61&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariompatel61&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hariompatel61&theme=onedark&row=1&column=6"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hariompatel61&theme=github-compact"/>
-
-</p>
-
----
-
-# 🌱 Currently Learning
-
-- Playwright
-- Python Automation
-- AI Workflow Systems
-- LLM Integration
-- CI/CD Automation
-
----
-
-# 📫 Connect With Me
-
-<p>
-
-📧 Email:
-<a href="mailto:hariompatel3369@gmail.com">hariompatel3369@gmail.com</a>
-
-</p>
-
-<p>
-
-💼 LinkedIn:
-<a href="https://linkedin.com/in/hariompatel069">
-linkedin.com/in/hariompatel069
-</a>
-
-</p>
-
-<p>
-
-💻 GitHub:
-<a href="https://github.com/hariompatel61">
-github.com/hariompatel61
-</a>
-
-</p>
-
----
+### 📈 GitHub Analytics & Activity
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
-
-*"Quality isn't accidental. It is engineered."*
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=hariompatel61&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariompatel61&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
-```
+
+<br>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hariompatel61&theme=tokyo-night&hide_border=true"/>
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/hariompatel61/hariompatel61/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+
+</div>
+
+---
+
+### ⚡ Developer Profile (`ai_engineer.py`)
+
+```python
+class AIEngineer:
+    def __init__(self):
+        self.name = "Hari Om Patel"
+        self.role = "AI Automation Engineer & QA Specialist"
+        self.primary_skills = ["Python", "LLMs", "Multi-Agent Systems", "API & DB Testing", "MCP"]
+        self.portfolio = "[https://hariompatel.onrender.com/](https://hariompatel.onrender.com/)"
+        self.motto = "Build Intelligent Systems. Ensure Absolute Reliability."
+
+    def status(self):
+        return f"Architecting AI Pipelines! Check my portfolio: {self.portfolio}"
+
+print(AIEngineer().status())
